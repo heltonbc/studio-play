@@ -1,16 +1,31 @@
-Descrição da Aula
-O que é a aula?
+# StudioPlay
 
-Introdução a responsividade, media queries e finalização do projeto.
+This is the first project of the Frontend Developer. /
 
- 
+Este é o meu primeiro projeto de FrontEnd Developer, utilizando apenas HMTL e CSS.
+Para justamente fixar os conhecimentos bases. É um projeto em andamento, estarei finalizando as demais páginas.
 
-Por que faremos esta aula?
+## How to work with the repository / Como trabalhar com o repositório
 
-Conheceremos os conceitos de desenvolvimento responsivo.
+### Clone the project / Clone o projeto
 
+```
+git clone http://github.com/heltonbc/studioplay.git
+```
 
-Como faremos esta aula?
+### Install the project dependencies / Instalar as dependências do projeto
 
-Vamos aprender  os principais conceitos de site responsivo para múltiplos dispositivos, e utilizaremos ferramentas e técnicas
-para facilitar o desenvolvimento responsivo com grids e Media Queries do CSS.
+```
+cd studion
+npm install
+```
+
+### Start the project / Iniciar o projeto
+
+```
+npm start
+```
+
+### Questions? / Perguntas
+
+Send me an email at [heltondeveloper01@gmail.com](mailto:heltondeveloper01@gmail.com)
