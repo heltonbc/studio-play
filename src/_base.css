@@ -38,3 +38,15 @@ ul {
     list-style: none;
     padding-left: 0;
 }
+
+/* header,
+main,
+footer {
+    overflow-x: hidden;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+} */
