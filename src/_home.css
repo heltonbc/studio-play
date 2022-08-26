@@ -204,7 +204,7 @@
 .quote__container {
     display: grid;
     align-items: end;
-    justify-items: end;
+    justify-items: center;
     min-height: 80vh;
 }
 
