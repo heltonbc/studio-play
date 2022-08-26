@@ -2,6 +2,7 @@
 
 HTML e CSS
 Isso mesmo! Muitos projetos de Front-End saem do forno com Javascript + css/scss + Frameworks + Bibliotecas. Isso com certeza agiliza e padroniza o desenvolvimento.
+<<<<<<< HEAD
 
 Porém, me desafiei criar um projeto a moda antiga mesmo, com foco total em HTML e CSS! E responsivo hem! Claro... teve 1% de js hehe... e está em desenvolvimento algumas partes, mas já deu para trabalhar bastante o conhecimento e as habilidades!
 
@@ -13,6 +14,21 @@ E aí... com o que tem se desafiado? ^^'
 É um projeto de um site para o meu portfólio. Baseado em uma empresa fictícia de criação de eventos de grande porte como por exemplo Lollapalooza, RockInRio. hehe^^
 
 #HTML #CSS e 1% de #js
+=======
+
+Porém, me desafiei criar um projeto a moda antiga mesmo, com foco total em HTML e CSS! E responsivo hem! Claro... teve 1% de js hehe... e está em desenvolvimento algumas partes, mas já deu para trabalhar bastante o conhecimento e as habilidades! 
+
+E aí... com o que tem se desafiado? ^^'
+
+- Sobre o projeto:
+O StudioPlay (https://studio-play.vercel.app/index.html)
+
+É um projeto de um site para o meu portfólio. Baseado em uma empresa fictícia de criação de eventos de grande porte como por exemplo Lollapalooza, RockInRio. hehe^^ 
+
+#HTML #CSS e 1% de #js  
+
+
+>>>>>>> 33f85201d549b792b01e79fd55374b35d9b4ce68
 
 ## How to work with the repository / Como trabalhar com o repositório
 
