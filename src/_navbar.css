@@ -8,6 +8,15 @@
     color: #fff;
 }
 
+.navbar_tmp {
+    z-index: 1;
+    top: 0;
+    left: 0;
+    width: 100%;
+    color: #fff;
+    background-color: #000;
+}
+
 .navbar__container {
     display: grid;
     grid-template-columns: 1fr 9fr;
