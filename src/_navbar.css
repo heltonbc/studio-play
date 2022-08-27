@@ -62,7 +62,7 @@
 
 @media screen and (min-width: 1280px) {
     .navbar__links li {
-        font-size: 0.875rem;
+        font-size: 1rem;
         margin-right: 3rem;
     }
 }
