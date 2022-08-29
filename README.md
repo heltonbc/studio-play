@@ -28,7 +28,6 @@ O StudioPlay (https://studio-play.vercel.app/index.html)
 
 #HTML #CSS e 1% de #js  
 
--
 
 ## How to work with the repository / Como trabalhar com o repositório
 
