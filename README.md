@@ -14,8 +14,6 @@ E aí... com o que tem se desafiado? ^^'
 
 #HTML #CSS e 1% de #js
 
-=======
-
 Porém, me desafiei criar um projeto a moda antiga mesmo, com foco total em HTML e CSS! E responsivo hem! Claro... teve 1% de js hehe... e está em desenvolvimento algumas partes, mas já deu para trabalhar bastante o conhecimento e as habilidades! 
 
 E aí... com o que tem se desafiado? ^^'
